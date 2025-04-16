@@ -1,7 +1,7 @@
 # Hello, I'm Sandeepan Nandi 👋
 
 ## About Me
-Software developer and AI enthusiast with a passion for creating intelligent systems that solve real-world problems. I enjoy working at the intersection of machine learning and software engineering, building applications that leverage AI capabilities. Currently I'm building 2 mobile apps and an FPS game.
+Software developer and AI engineer with a passion for creating intelligent systems that solve real-world problems. I enjoy working at the intersection of machine learning and software engineering, building applications that leverage AI capabilities. Currently I'm building 2 mobile apps and an FPS game.
 
 ## 🔭 Current Focus
 - Developing a 3D zombie game with Three JS
