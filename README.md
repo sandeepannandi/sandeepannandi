@@ -1,7 +1,7 @@
 # Hello, I'm Sandeepan Nandi 👋
 
 ## About Me
-Welcome to my GitHub profile! Software developer and AI enthusiast with a passion for creating intelligent systems that solve real-world problems. I enjoy working at the intersection of machine learning and software engineering, building applications that leverage AI capabilities. Currently I'm building 2 mobile apps and an FPS game.
+Software developer and AI enthusiast with a passion for creating intelligent systems that solve real-world problems. I enjoy working at the intersection of machine learning and software engineering, building applications that leverage AI capabilities. Currently I'm building 2 mobile apps and an FPS game.
 
 ## 🔭 Current Focus
 - Developing a 3D zombie game with Three JS
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Software developer and AI enthusiast with a passio
 
 ## 💻 Tech Stack
 - **Languages**: Python, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, TensorFlow, PyTorch, FastAPI
+- **Frameworks/Libraries**: React, TensorFlow, PyTorch, FastAPI, Node
 - **Tools**: Google Cloud, Git
 - **AI/ML**: Experience with various ML algorithms and working with LLMs
 
