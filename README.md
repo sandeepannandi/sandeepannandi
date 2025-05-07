@@ -26,7 +26,7 @@ I'm constantly exploring new technologies and methodologies in the AI space. Cur
 ## 🔗 Connect With Me
 - [LinkedIn](https://linkedin.com/in/sandeepannandi)
 - [Twitter/X](https://twitter.com/SandeepanNandi)
-- [Personal Website](https://chimerical-griffin-f3c272.netlify.app/)
+- [Personal Website](https://sandisite.netlify.app/)
 - [Medium](https://techstoryblog.medium.com/)
 
 ## 📊 GitHub Stats
