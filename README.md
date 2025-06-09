@@ -29,9 +29,6 @@ I'm constantly exploring new technologies and methodologies in the AI space. Cur
 - [Personal Website](https://sandisite.netlify.app/)
 - [Medium](https://techstoryblog.medium.com/)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepannandi&show_icons=true&theme=radical)
-
 ## 🏆 Projects
 Here are some projects I'm proud of:
 - [Neuroboard](https://v0-neuroboard-concept-dzi4g3.vercel.app/) - Brief description
