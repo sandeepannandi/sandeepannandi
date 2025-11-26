@@ -1,39 +1,30 @@
+<img width="1200" height="360" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/a44481ac-3865-4bc1-a509-bd97ab2506e0" />
+
 # Hello, I'm Sandeepan Nandi 👋
 
 ## About Me
-Software developer and AI engineer with a passion for creating intelligent systems that solve real-world problems. I enjoy working at the intersection of machine learning and software engineering, building applications that leverage AI capabilities. Currently I'm building 2 mobile apps and an FPS game.
+I'm a Software developer and AI engineer with a passion for creating systems that solve real-world problems. I enjoy working on math problems, software engineering and building applications that scale. Currently I'm an IOS Engineer at Lumination AI, an edtect platform. previously I also worked at Oulier AI as a frontend engineer
 
-## 🔭 Current Focus
-- Developing a 3D zombie game with Three JS
-- Learning about Large Language Models and their practical applications
-- Building Lumin & Elina (My mobile apps)
+## Current Focus
+- Developing my first AI Saas : Clix which is a thumbnail generator
+- Learning about LLMs and reinforcement learning
+- Building a mobile app for women : Lumin which is a glowup assistant and shopping agent
 
-## 💻 Tech Stack
+## Tech Stack
 - **Languages**: Python, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, TensorFlow, PyTorch, FastAPI, Node
-- **Tools**: Google Cloud, Git
-- **AI/ML**: Experience with various ML algorithms and working with LLMs
+- **Frameworks/Libraries**: React, Nextjs, Tailwind, TensorFlow, PyTorch, FastAPI, Nodejs
+- **Tools**: Google Cloud, Git, AWS, Redis
+- **AI/ML**: Currently learning about ML algorithms and LLMs
 
-## 📚 Education
-- Bachelor's degree in Computer Science
+## Education
+- Bachelor's degree in Computer Science with a 9 cgpa
 
-## 🌱 Always Learning
-I'm constantly exploring new technologies and methodologies in the AI space. Currently diving deeper into:
-- AI use in Bio-medical industry 
-- Building AI agents and workflows
-- Efficient deployment of ML models
-
-## 🔗 Connect With Me
+## Connect With Me
+- [Personal Website](https://sandicodes.me/)
 - [LinkedIn](https://linkedin.com/in/sandeepannandi)
-- [Twitter/X](https://twitter.com/SandeepanNandi)
-- [Personal Website](https://sandisite.netlify.app/)
-- [Medium](https://techstoryblog.medium.com/)
-
-## 🏆 Projects
-Here are some projects I'm proud of:
-- [Neuroboard](https://v0-neuroboard-concept-dzi4g3.vercel.app/) - Brief description
-- [Canvas](https://v0-digital-art-canvas-43et5a.vercel.app/) - Brief description
+- [Twitter](https://x.com/SandeepanNandi)
+- [Youtube](https://www.youtube.com/@sandeepannandi)
 
 ---
 
-⭐️ From [Sandeepan](https://github.com/sandepannandi)
+💖 From [Sandeepan](https://github.com/sandepannandi)
