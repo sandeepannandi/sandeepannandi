@@ -2,6 +2,8 @@
 
 # Hello, I'm Sandeepan Nandi 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepannandi&color=brightgreen)
+
 ## About Me
 I'm a Software developer and AI engineer with a passion for creating systems that solve real-world problems. I enjoy working on math problems, software engineering and building applications that scale. Currently I'm an IOS Engineer at Lumination AI, an edtect platform. previously I also worked at Oulier AI as a frontend engineer
 
