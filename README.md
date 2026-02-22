@@ -3,7 +3,7 @@
 # Hello, I'm Sandeepan Nandi 👋
 
 ## About Me
-I'm a Software developer and AI engineer with a passion for creating systems that solve real-world problems. I enjoy working on math problems, software engineering and building applications that scale. Currently I'm an IOS Engineer at Lumination AI, an edtect platform. previously I also worked at Oulier AI as a frontend engineer
+I'm a Software developer and AI engineer with a passion for creating systems that solve real-world problems. I enjoy working on math problems, software engineering and building applications that scale. Currently I'm an App Developer at BRXLabs and an iOS Engineer at Lumination AI, an edtect platform. previously I also worked at Oulier AI as a frontend engineer
 
 ## Current Focus
 - Developing my first AI Saas : Clix which is a thumbnail generator
@@ -27,4 +27,4 @@ I'm a Software developer and AI engineer with a passion for creating systems tha
 
 ---
 
-💖 From [Sandeepan](https://github.com/sandepannandi)
+💖 From [Sandeepan](https://github.com/sandeepannandi)
