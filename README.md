@@ -8,7 +8,7 @@ I'm a Software developer and AI engineer with a passion for creating systems tha
 ## Current Focus
 - Developing my first AI Saas : Clix which is a thumbnail generator
 - Learning about LLMs and reinforcement learning
-- Building a mobile app for women : Lumin which is a glowup assistant and shopping agent
+- Building an onbrand AI for brands to generate brnad assets for marketing
 
 ## Tech Stack
 - **Languages**: Python, JavaScript, TypeScript
