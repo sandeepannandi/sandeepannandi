@@ -5,9 +5,6 @@
 ## About Me
 I’m a Software Developer & AI Engineer focused on building **high-leverage systems** that scale.
 
--  Built systems used by **thousands to millions of users**
--  Strong focus on execution, speed & real-world impact
-
 ### Experience
 -  App Developer @ **BRXLabs**
 -  Software Engineer @ **Sequencer**
