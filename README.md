@@ -12,7 +12,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  App Developer @ **BRXLabs**
 -  Software Engineer @ **Sequencer**
 -  Former iOS Engineer @ **Lumination AI**
--  Former Frontend Engineer @ **Oulier AI**
+-  Former Frontend Engineer @ **Outlier AI**
 
 ---
 
