@@ -89,6 +89,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/SandeepanNandi)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@sandeepannandi)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Wwwv8QZuWw)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/sandeepanandi/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@sandeepannandi/)
 [![Play%20Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5510395275497209701)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sandeepannandi)
