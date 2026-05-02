@@ -15,8 +15,8 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 
 ##  Current Projects
 
--  **[Clix](https://clixai.tech)** - Generate/edit thumbnails (prompt, video, sketch, references) [Saas]  
--  **[Ore](https://tryore.ai)** - Brand asset generation, brand consulting & brand videos [Saas]
+-  **[Clix](https://github.com/sandeepannandi/Clix)** - Generate/edit thumbnails (prompt, video, sketch, references)  
+-  **[Ore](https://tryore.net)** - Brand asset generation, brand consulting & brand videos [Saas]
 -  **[ExpensePal](https://expensepal.sandicodes.me)** - The only expense tracker you'll ever need in any situation [Saas]  
 -  **[SlapYourWin](https://github.com/sandeepannandi/SpankYourWin)** - Spank your windows or insert USB to make it moan
 -  **[SliceCam](https://github.com/sandeepannandi/SliceCam)** - Slash flying fruits with real-time hand tracking
