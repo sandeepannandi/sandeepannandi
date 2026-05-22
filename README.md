@@ -1,4 +1,4 @@
-<img width="1200" height="280" alt="Banner" src="https://github.com/user-attachments/assets/a44481ac-3865-4bc1-a509-bd97ab2506e0" />
+<img width="1200" height="320" alt="Banner" src="https://github.com/user-attachments/assets/a44481ac-3865-4bc1-a509-bd97ab2506e0" />
 
 # Hello, I'm Sandeepan Nandi 👋
 
