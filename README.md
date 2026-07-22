@@ -71,7 +71,8 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 
 ## Legacy Work
 
--  Made all the android widgets in [Station](https://github.com/get-station/station), [Ocean](https://github.com/get-ocean/ocean), [Dashify](https://github.com/get-dashify/dashify), [Nathan](https://github.com/get-nathan/nathan) & [Pok](https://github.com/get-pok/pok)  
+-  Made all the android widgets in [Station](https://github.com/get-station/station), [Ocean](https://github.com/get-ocean/ocean), [Dashify](https://github.com/get-dashify/dashify), [Nathan](https://github.com/get-nathan/nathan) & [Pok](https://github.com/get-pok/pok)
+-  Contributed to [Recordly](https://github.com/webadderallorg/Recordly)
 -  Redesigned the onboarding for [Wave-AI note taker](https://apps.apple.com/us/app/wave-ai-note-taker-summary/id6451491556) that has 5M+ users  
 -  Built the animations in [Pathbound](https://play.google.com/store/apps/details?id=co.pyreal.pathbound&hl=en_IN)   
 
