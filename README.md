@@ -27,6 +27,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  **[Lumin](https://github.com/sandeepannandi/Lumin)** - An AI glowup assistant
 -  **[Scraper](https://github.com/sandeepannandi/Scraper)** - Website scraping tool and bot
 -  **[Design Experiments](https://github.com/sandeepannandi/Design-Experiments)** - An ongoing collection of React and React Native animations
+-  **[OpenSurfer](https://github.com/sandeepannandi/OpenSurfer)** - An endless runner made in Flutter
 
 ---
 
