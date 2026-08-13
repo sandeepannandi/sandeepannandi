@@ -29,6 +29,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  **[Design Experiments](https://github.com/sandeepannandi/Design-Experiments)** - An ongoing collection of React and React Native animations
 -  **[OpenSurfer](https://github.com/sandeepannandi/OpenSurfer)** - An endless runner made in Flutter
 -  **[Cipher](https://github.com/sandeepannandi/Cipher)** - An AI Security Engineer CLI
+-  **[Peer](https://github.com/sandeepannandi/Peer)** - A cross repo context Github PR review bot
 
 ---
 
