@@ -30,6 +30,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  **[OpenSurfer](https://github.com/sandeepannandi/OpenSurfer)** - An endless runner made in Flutter
 -  **[Cipher](https://github.com/sandeepannandi/Cipher)** - An AI Security Engineer CLI
 -  **[Peer](https://github.com/sandeepannandi/Peer)** - A cross repo context Github PR review bot
+-  **[AutoClip](https://github.com/sandeepannandi/AutoClip)** - Autonomous clip generator from long videos
 
 ---
 
