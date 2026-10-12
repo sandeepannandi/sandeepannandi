@@ -26,7 +26,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  **[Wave](https://github.com/sandeepannandi/Wave)** - An AI note taker. Just the UI
 -  **[Lumin](https://github.com/sandeepannandi/Lumin)** - An AI glowup assistant
 -  **[Scraper](https://github.com/sandeepannandi/Scraper)** - Website scraping tool and bot
--  **[Design Experiments](https://github.com/sandeepannandi/Design-Experiments)** - An ongoing collection of React and React Native animations
+-  **[Nativelet](https://github.com/sandeepannandi/Nativelet)** - An ongoing collection of React and React Native animations
 -  **[OpenSurfer](https://github.com/sandeepannandi/OpenSurfer)** - An endless runner made in Flutter
 -  **[Cipher](https://github.com/sandeepannandi/Cipher)** - An AI Security Engineer CLI
 -  **[Peer](https://github.com/sandeepannandi/Peer)** - A cross repo context Github PR review bot
