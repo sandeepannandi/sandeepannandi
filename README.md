@@ -16,8 +16,9 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 ##  Current Projects
 
 -  **[Clix](https://github.com/sandeepannandi/Clix)** - Generate/edit thumbnails (prompt, video, sketch, references)  
--  **[Ore](https://tryore.net)** - Brand asset generation, brand consulting & brand videos [Saas]
--  **[ExpensePal](https://expensepal.sandicodes.me)** - The only expense tracker you'll ever need in any situation [Saas]  
+-  **[Ore](https://itsore.com)** - Brand asset generation, brand consulting & brand videos [Saas]
+-  **[ExpensePal](https://expensepal.sandi.runs-on.dev/)** - The only expense tracker you'll ever need in any situation [Saas]
+-  **[Nari](https://nari.sandi.runs-on.dev/)** - The #1 PCOS companion app for women [Saas]
 -  **[SlapYourWin](https://github.com/sandeepannandi/SpankYourWin)** - Spank your windows or insert USB to make it moan
 -  **[SliceCam](https://github.com/sandeepannandi/SliceCam)** - Slash flying fruits with real-time hand tracking
 -  **[Qlearo](https://github.com/sandeepannandi/Qlearo)** - An AI search engine with a generative UI
@@ -31,6 +32,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 -  **[Cipher](https://github.com/sandeepannandi/Cipher)** - An AI Security Engineer CLI
 -  **[Peer](https://github.com/sandeepannandi/Peer)** - A cross repo context Github PR review bot
 -  **[AutoClip](https://github.com/sandeepannandi/AutoClip)** - Autonomous clip generator from long videos
+-  **[HaulCast](https://github.com/sandeepannandi/Haulcast)** - Weather-aware truck routing
 
 ---
 
@@ -41,6 +43,7 @@ I’m a Software Developer & AI Engineer focused on building **high-leverage sys
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
